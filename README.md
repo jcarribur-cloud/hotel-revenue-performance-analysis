@@ -57,3 +57,9 @@ streamlit run app.py
 ```
 
 The application will open in the browser.
+
+## Author
+
+John Steven Carrillo Burgos
+
+Hotel Front Desk Operations | Python | Data Analytics | Revenue Management
