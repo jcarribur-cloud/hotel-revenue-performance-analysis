@@ -51,3 +51,9 @@ Install the required libraries:
 
 ```bash
 pip install pandas matplotlib streamlit
+
+```bash
+streamlit run app.py
+```
+
+The application will open in the browser.
